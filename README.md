@@ -24,9 +24,6 @@ This project showcases a clean UI design with sections like **Hero, Features, Pr
 
 ---
 
-
----
-
 ## 👨‍💻 Author
 **Shayan Shahid**  
 Frontend Developer 
